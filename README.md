@@ -38,4 +38,4 @@ The purpose of these exercises is to strengthen:
 ## 📌 Notes
 
 These exercises were developed in an academic context and serve as foundational training in software engineering principles and algorithmic thinking.
-All the labs were individual and I got a score of 100% in all of them.
+**All the labs were individual and I got a score of 100% in all of them.**
